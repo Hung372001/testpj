@@ -2,7 +2,7 @@
   "name": "my-vue-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://hung372001.github.io/Dapp/",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
